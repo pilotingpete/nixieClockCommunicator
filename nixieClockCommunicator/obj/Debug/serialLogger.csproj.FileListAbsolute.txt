@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2013\Projects\serialLogger\serialLogger\bin\Debug\serialLogger.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\bin\Debug\serialLogger.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\bin\Debug\serialLogger.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.g.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\serialLogger\serialLogger\obj\Debug\serialLogger.pdb
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\bin\Debug\serialLogger.exe.config
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.exe
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.pdb
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\bin\Debug\serialLogger.exe
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\bin\Debug\serialLogger.pdb
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.csprojResolveAssemblyReference.cache
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\MainWindow.baml
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\MainWindow.g.cs
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\App.g.cs
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger_MarkupCompile.cache
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.g.resources
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.Properties.Resources.resources
+C:\Users\mills\Google Drive\Projects-Current\nixieClock\winApp\serialLogger\serialLogger\obj\Debug\serialLogger.csproj.GenerateResource.Cache
